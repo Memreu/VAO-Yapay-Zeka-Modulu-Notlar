@@ -11,7 +11,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
 - Ders 3
 
 ## 🚀 Nasıl Kullanılır?
-Bu repoda yer alan tüm ders notları ve konu özetleri **PDF (.pdf)** formatında sisteme yüklenmiştir. 
+Bu repoda yer alan tüm ders notları **PDF (.pdf)** formatında yüklenmiştir. İlerleyen aşamalarda konularla ilgili uygulamalı .ipynb dosyaları da repoya eklenecektir. 
 * İlgili konunun klasörüne girerek PDF dosyalarına tıklayabilir ve doğrudan GitHub üzerinden tarayıcınızda okuyabilirsiniz.
 * Dilerseniz dosyaların sağ üst köşesindeki **"Download raw file" (İndir)** butonunu kullanarak notları kendi bilgisayarınıza, tabletinize veya telefonunuza indirebilir ve dilediğiniz zaman çevrimdışı olarak da çalışabilirsiniz.
 

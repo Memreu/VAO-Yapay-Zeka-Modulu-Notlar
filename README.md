@@ -6,9 +6,14 @@ Bu depo, [Veri Analizi Okulu (VAO)](https://verianaliziokulu.com/) tarafından d
 Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli toplu bir şekilde tutmak, geriye dönük tekrarlarımı kolaylaştırmak ve veri bilimi/yapay zeka alanında kendini geliştirmek isteyen diğer kişiler için Türkçe bir kaynak oluşturmaktır.
 
 ## 📂 İçindekiler
-* Ders 1 -> Özet - Kavram Ayrımı ve Yapay Hücrenin Karar Mekanizması Örnek
-* Ders 2 -> Özet - Grid World Etkileşimli Örnek
-* Ders 3 -> Özet - K-Means ve Parsing Örnek
+* Ders 1 -> Özet
+    - Kavram Ayrımı ve Yapay Hücrenin Karar Mekanizması Örnek
+* Ders 2 -> Özet
+    - Grid World Etkileşimli Örnek
+    - Curve Fitting Örnek
+* Ders 3 -> Özet
+    - K-Means ve Parsing Örnek
+    - Data Augmentation Örnek
 
 ## 🚀 Nasıl Kullanılır?
 Bu repoda yer alan tüm ders notları **PDF (.pdf)** formatında yüklenmiştir. İlerleyen aşamalarda konularla ilgili uygulamalı .ipynb dosyaları da repoya eklenecektir. 
@@ -17,7 +22,7 @@ Bu repoda yer alan tüm ders notları **PDF (.pdf)** formatında yüklenmiştir.
 
 ## 🔗 Kaynaklar ve Teşekkür
 * **Eğitim Kurumu:** [Veri Analizi Okulu](https://verianaliziokulu.com/)
-* Değerli katkılarından dolayı Sayın Dr. Oktay Altun'a teşekkürlerimi sunarım.
+* Vizyonumuza ve eğitimimize değerli katkılarından dolayı Sayın Dr. Oktay Altun'a teşekkürlerimi sunarım.
 
 ---
 *⭐️ Bu notlar sana yardımcı olduysa repoyu yıldızlamayı unutma!*

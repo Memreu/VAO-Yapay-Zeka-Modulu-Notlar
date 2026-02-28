@@ -1,2 +1,23 @@
-# VAO-Yapay-Zeka-Modulu-Notlar
-Veri analizi okulu tarafından verilen yapay zeka eğitimlerinde anlatılan konular hakkında alınmış notlardır.
+# VAO - Yapay Zekâ Modülü Notları 🤖📊
+
+Bu depo, [Veri Analizi Okulu (VAO)](https://verianaliziokulu.com/) tarafından düzenlenen Yapay Zeka dersleri süresince aldığım kişisel notları ve pratik kod uygulamalarını içermektedir.
+
+## 📌 Projenin Amacı
+Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli toplu bir şekilde tutmak, geriye dönük tekrarlarımı kolaylaştırmak ve veri bilimi/yapay zeka alanında kendini geliştirmek isteyen diğer kişiler için Türkçe bir kaynak oluşturmaktır.
+
+## 📂 İçindekiler
+- Ders 1
+- Ders 2
+- Ders 3
+
+## 🚀 Nasıl Kullanılır?
+Bu repoda yer alan tüm ders notları ve konu özetleri **PDF (.pdf)** formatında sisteme yüklenmiştir. 
+* İlgili konunun klasörüne girerek PDF dosyalarına tıklayabilir ve doğrudan GitHub üzerinden tarayıcınızda okuyabilirsiniz.
+* Dilerseniz dosyaların sağ üst köşesindeki **"Download raw file" (İndir)** butonunu kullanarak notları kendi bilgisayarınıza, tabletinize veya telefonunuza indirebilir ve dilediğiniz zaman çevrimdışı olarak da çalışabilirsiniz.
+
+## 🔗 Kaynaklar ve Teşekkür
+* **Eğitim Kurumu:** [Veri Analizi Okulu](https://verianaliziokulu.com/)
+* Değerli katkılarından dolayı Sayın Dr. Oktay Altun'a teşekkürlerimi sunarım.
+
+---
+*⭐️ Bu notlar sana yardımcı olduysa repoyu yıldızlamayı unutma!*

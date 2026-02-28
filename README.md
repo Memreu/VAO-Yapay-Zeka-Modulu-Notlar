@@ -6,9 +6,9 @@ Bu depo, [Veri Analizi Okulu (VAO)](https://verianaliziokulu.com/) tarafından d
 Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli toplu bir şekilde tutmak, geriye dönük tekrarlarımı kolaylaştırmak ve veri bilimi/yapay zeka alanında kendini geliştirmek isteyen diğer kişiler için Türkçe bir kaynak oluşturmaktır.
 
 ## 📂 İçindekiler
-- Ders 1
-- Ders 2
-- Ders 3
+- Ders 1 -> Özet
+- Ders 2 -> Özet - Grid World Etkileşimli Örnek
+- Ders 3 -> Özet
 
 ## 🚀 Nasıl Kullanılır?
 Bu repoda yer alan tüm ders notları **PDF (.pdf)** formatında yüklenmiştir. İlerleyen aşamalarda konularla ilgili uygulamalı .ipynb dosyaları da repoya eklenecektir. 

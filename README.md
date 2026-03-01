@@ -1,6 +1,6 @@
 # VAO - Yapay Zekâ Modülü Notları 🤖📊
 
-Bu depo, [Veri Analizi Okulu (VAO)](https://verianaliziokulu.com/) tarafından düzenlenen Yapay Zeka dersleri süresince aldığım kişisel notları ve pratik kod uygulamalarını içermektedir.
+Bu depo, [Veri Analizi Okulu](https://verianaliziokulu.com/) tarafından düzenlenen Yapay Zeka dersleri süresince aldığım kişisel notları ve pratik kod uygulamalarını içermektedir.
 
 ## 📌 Projenin Amacı
 Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli toplu bir şekilde tutmak, geriye dönük tekrarlarımı kolaylaştırmak ve veri bilimi/yapay zeka alanında kendini geliştirmek isteyen diğer kişiler için Türkçe bir kaynak oluşturmaktır.

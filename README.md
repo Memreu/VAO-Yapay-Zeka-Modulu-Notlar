@@ -10,7 +10,8 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
     - Kavram Ayrımı ve Yapay Hücrenin Karar Mekanizması Örnek
 * Ders 2 -> Özet
     - Grid World Etkileşimli Örnek
-    - Curve Fitting Örnek
+    - Denetimli Öğrenme (Curve Fitting) Örnek
+    - Denetimsiz Öğrenme Örnek
 * Ders 3 -> Özet
     - K-Means ve Parsing Örnek
     - Data Augmentation Örnek
@@ -43,8 +44,9 @@ Dosyaları kendi bilgisayarınızda çalıştırmak isterseniz:
 
 ## 🔗 Kaynaklar ve Teşekkür
 * **Eğitim Kurumu:** [Veri Analizi Okulu](https://verianaliziokulu.com/)
-* Notlarda kullanılan kaynaklara pdf'lerin içinde bulunan linklerden erişebilirsiniz.
+* **Kaynaklar** Notlarda kullanılan kaynaklara pdf'lerin içinde bulunan linklerden erişebilirsiniz.
 * Vizyonumuza ve eğitimimize değerli katkılarından dolayı Sayın Dr. Oktay Altun'a teşekkürlerimi sunarım.
+* Not: Uygulamaların ve notların aktarımı ve düzeninin herkese uygun olması açısından llm araçlarından destek alınmıştır.
 
 ## 📬 İletişim ve Geri Bildirim
 

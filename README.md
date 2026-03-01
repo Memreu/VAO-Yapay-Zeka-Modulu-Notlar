@@ -56,6 +56,6 @@ Notlarda veya kodlarda herhangi bir hata fark ederseniz, eklenmesini istediğini
 * **E-posta:** [mehmetemreunlu43@gmail.com](mailto:mehmetemreunlu43@gmail.com)
 * **LinkedIn:** [Mehmet Emre Ünlü](https://www.linkedin.com/in/memreu/)
 
-Geri bildirimleriniz ve katkılarınız bu deponun daha da iyileşmesi için çok değerli. İyi çalışmalar dilerim!
+#### Geri bildirimleriniz ve katkılarınız bu reponun daha da iyileşmesi için çok değerli. İyi çalışmalar dilerim!
 ---
 *⭐️ Bu notlar sana yardımcı olduysa repoyu yıldızlamayı unutma!*

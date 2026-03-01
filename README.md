@@ -14,6 +14,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
 * Ders 3 -> Özet
     - K-Means ve Parsing Örnek
     - Data Augmentation Örnek
+    - Keşifsel Veri Analizi (EDA) Örnek
 
 ## 🚀 Nasıl Kullanılır?
 

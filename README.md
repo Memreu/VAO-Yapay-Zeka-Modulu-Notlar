@@ -22,9 +22,10 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
 
 Bu repoda derslere ait teorik notlar **PDF** formatında, uygulamalı kod örnekleri ise **Jupyter Notebook (.ipynb)** formatında yer almaktadır.
 
-### 📄 Ders Notları (PDF)
-* Ana dizinde yer alan PDF dosyalarına (örneğin `1. ders.pdf`) tıklayarak teorik notları doğrudan GitHub üzerinden tarayıcınızda okuyabilirsiniz.
-* Dilerseniz dosyaların sağ üst köşesindeki **"Download raw file" (İndir)** butonunu kullanarak kendi cihazınıza indirebilir ve çevrimdışı okuyabilirsiniz.
+### 📄 Ders Notları (PDF & HTML)
+* **Görüntüleme:** Ana dizinde yer alan PDF (örneğin `1. ders.pdf`) veya HTML formatındaki dosyalara tıklayarak teorik notları doğrudan GitHub üzerinden tarayıcınızda inceleyebilirsiniz.
+* **İndirme:** Dosyaların sağ üst köşesinde bulunan **"Download raw file" (İndir)** butonunu kullanarak içerikleri cihazınıza indirebilir ve çevrimdışı olarak çalışabilirsiniz.
+* **Format Seçimi:** Notlara hem PDF hem de tarayıcı dostu HTML formatında erişerek size en uygun okuma deneyimini seçebilirsiniz.
 
 ### 💻 Pratik Uygulamalar (.ipynb)
 Derste işlenen kod uygulamaları `pratik-uygulamalar` klasörü içerisinde bulunmaktadır. Bu dosyaları incelemek ve çalıştırmak için aşağıdaki yöntemlerden birini seçebilirsiniz:

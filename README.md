@@ -17,6 +17,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
     - Data Augmentation Örnek
     - Transformer Mimarisi Örnek
     - Keşifsel Veri Analizi (EDA) Örnek
+* Ders 4 -> Özet
 
 ## 🚀 Nasıl Kullanılır?
 

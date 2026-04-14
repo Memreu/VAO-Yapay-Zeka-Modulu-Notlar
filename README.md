@@ -52,7 +52,7 @@ Dosyaları kendi bilgisayarınızda çalıştırmak isterseniz:
 ## 🔗 Kaynaklar ve Teşekkür
 * **Eğitim Kurumu:** [Veri Analizi Okulu](https://verianaliziokulu.com/)
 * **Kaynaklar:** Notlarda kullanılan kaynaklara, PDF'lerin içinde bulunan linklerden erişebilirsiniz.
-* **Teşekkür:** Vizyonumuza ve eğitimimize değerli katkılarından dolayı Sayın Dr. Oktay Altun'a teşekkürlerimi sunarım.
+* **Teşekkür:** Vizyonumuza ve eğitimimize değerli katkılarından dolayı Sayın Dr. Oktay Altun'a ve Sayın Doç. Dr. Ercan Atam'a teşekkürlerimi sunarım.
 * **Not:** Uygulamaların ve notların aktarım düzeninin herkese uygun olması açısından LLM araçlarından destek alınmıştır.
 
 ## 📬 İletişim ve Geri Bildirim

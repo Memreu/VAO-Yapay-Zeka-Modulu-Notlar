@@ -22,6 +22,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
     - Keşifsel Veri Analizi (EDA) Örnek
 * Ders 4 -> Özet
 * Ders 5 -> Özet
+    - Müşteri Segmentasyonu ve Churn Tahmini Örnek
 
 ## 🚀 Nasıl Kullanılır?
 

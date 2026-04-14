@@ -2,7 +2,8 @@
 
 Bu depo, [Veri Analizi Okulu](https://verianaliziokulu.com/) tarafından düzenlenen Yapay Zeka dersleri süresince aldığım kişisel notları ve pratik kod uygulamalarını içermektedir.
 
-Planlanan sonraki güncelleme tarihi : 12 Nisan Pazar 2026
+Yapılan son güncelleme tarihi : 14 Nisan Salı 2026
+Planlanan sonraki güncelleme tarihi : 17 Nisan Cuma 2026
 
 ## 📌 Projenin Amacı
 Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli toplu bir şekilde tutmak, geriye dönük tekrarlarımı kolaylaştırmak ve veri bilimi/yapay zeka alanında kendini geliştirmek isteyen diğer kişiler için Türkçe bir kaynak oluşturmaktır.
@@ -20,6 +21,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
     - Transformer Mimarisi Örnek
     - Keşifsel Veri Analizi (EDA) Örnek
 * Ders 4 -> Özet
+* Ders 5 -> Özet
 
 ## 🚀 Nasıl Kullanılır?
 

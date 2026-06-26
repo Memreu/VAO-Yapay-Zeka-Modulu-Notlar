@@ -23,6 +23,9 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
 * Ders 4 -> Özet
 * Ders 5 -> Özet
     - Müşteri Segmentasyonu ve Churn Tahmini Örnek
+* Ders 6 -> Özet
+* Ders 8 -> Özet
+* Ders 9 -> Özet
 
 ## 🚀 Nasıl Kullanılır?
 

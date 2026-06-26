@@ -2,8 +2,8 @@
 
 Bu depo, [Veri Analizi Okulu](https://verianaliziokulu.com/) tarafından düzenlenen Yapay Zeka dersleri süresince aldığım kişisel notları ve pratik kod uygulamalarını içermektedir.
 
-Yapılan son güncelleme tarihi : 26 Haziran Cuma 2026
-Planlanan sonraki güncelleme tarihi : 30 Haziran Salı 2026
+- Yapılan son güncelleme tarihi : 26 Haziran Cuma 2026
+- Planlanan sonraki güncelleme tarihi : 30 Haziran Salı 2026
 
 ## 📌 Projenin Amacı
 Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli toplu bir şekilde tutmak, geriye dönük tekrarlarımı kolaylaştırmak ve veri bilimi/yapay zeka alanında kendini geliştirmek isteyen diğer kişiler için Türkçe bir kaynak oluşturmaktır.

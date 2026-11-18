@@ -27,6 +27,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
 * Ders 9 -> Özet
 * Ek Notlar (`ek-notlar/`)
     - [Dengesiz Veri Setlerinde Doğru Metrik Seçimi: Accuracy Tuzağı, Precision, Recall ve F1](ek-notlar/2026-11-17-dengesiz-veride-dogru-metrik-secimi.md)
+    - [K-Means'te Küme Sayısını (k) Seçmek: Dirsek Yöntemi ve Silhouette Skoru](ek-notlar/2026-11-18-kmeansde-kume-sayisi-secimi.md)
 
 ## 🚀 Nasıl Kullanılır?
 

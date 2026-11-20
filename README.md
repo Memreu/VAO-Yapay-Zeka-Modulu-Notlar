@@ -30,6 +30,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
     - [K-Means'te Küme Sayısını (k) Seçmek: Dirsek Yöntemi ve Silhouette Skoru](ek-notlar/2026-11-18-kmeansde-kume-sayisi-secimi.md)
     - [Veri Sızıntısı (Data Leakage): Önce Böl, Sonra Fit Et](ek-notlar/2026-11-18-veri-sizintisi-data-leakage.md)
     - [Q-Learning Adım Adım: Izgara Dünyasında Tablo Tabanlı Pekiştirmeli Öğrenme](ek-notlar/2026-11-19-q-learning-adim-adim.md)
+    - [Gradyan İnişi ve Öğrenme Oranı: Neden Bazen Yakınsar, Bazen Patlar?](ek-notlar/2026-11-20-gradyan-inisi-ve-ogrenme-orani.md)
 
 ## 🚀 Nasıl Kullanılır?
 

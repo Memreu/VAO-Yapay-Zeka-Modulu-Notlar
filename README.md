@@ -32,6 +32,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
     - [Q-Learning Adım Adım: Izgara Dünyasında Tablo Tabanlı Pekiştirmeli Öğrenme](ek-notlar/2026-11-19-q-learning-adim-adim.md)
     - [Gradyan İnişi ve Öğrenme Oranı: Neden Bazen Yakınsar, Bazen Patlar?](ek-notlar/2026-11-20-gradyan-inisi-ve-ogrenme-orani.md)
     - [K-Katlı Çapraz Doğrulama ile Model Seçimi: Polinom Derecesini Veriye Sordurmak](ek-notlar/2026-11-21-k-katli-capraz-dogrulama-ile-model-secimi.md)
+    - [Karar Ağaçlarında Entropi, Gini ve Bilgi Kazancı: Ağaç Hangi Soruyu Önce Sorar?](ek-notlar/2026-11-22-karar-agaclarinda-entropi-ve-bilgi-kazanci.md)
 
 ## 🚀 Nasıl Kullanılır?
 

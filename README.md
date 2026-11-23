@@ -33,6 +33,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
     - [Gradyan İnişi ve Öğrenme Oranı: Neden Bazen Yakınsar, Bazen Patlar?](ek-notlar/2026-11-20-gradyan-inisi-ve-ogrenme-orani.md)
     - [K-Katlı Çapraz Doğrulama ile Model Seçimi: Polinom Derecesini Veriye Sordurmak](ek-notlar/2026-11-21-k-katli-capraz-dogrulama-ile-model-secimi.md)
     - [Karar Ağaçlarında Entropi, Gini ve Bilgi Kazancı: Ağaç Hangi Soruyu Önce Sorar?](ek-notlar/2026-11-22-karar-agaclarinda-entropi-ve-bilgi-kazanci.md)
+    - [Naive Bayes'te Laplace Düzleştirmesi ve Log-Olasılık Hilesi: Sıfırlar ve Sıfıra Yaklaşan Çarpımlar](ek-notlar/2026-11-23-naive-bayeste-laplace-duzlestirme-ve-log-olasilik.md)
 
 ## 🚀 Nasıl Kullanılır?
 

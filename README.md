@@ -34,6 +34,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
     - [K-Katlı Çapraz Doğrulama ile Model Seçimi: Polinom Derecesini Veriye Sordurmak](ek-notlar/2026-11-21-k-katli-capraz-dogrulama-ile-model-secimi.md)
     - [Karar Ağaçlarında Entropi, Gini ve Bilgi Kazancı: Ağaç Hangi Soruyu Önce Sorar?](ek-notlar/2026-11-22-karar-agaclarinda-entropi-ve-bilgi-kazanci.md)
     - [Naive Bayes'te Laplace Düzleştirmesi ve Log-Olasılık Hilesi: Sıfırlar ve Sıfıra Yaklaşan Çarpımlar](ek-notlar/2026-11-23-naive-bayeste-laplace-duzlestirme-ve-log-olasilik.md)
+    - [PCA'yı Sıfırdan Yazmak: Kovaryans Matrisi, Güç Yinelemesi ve Ölçekleme Tuzağı](ek-notlar/2026-11-24-pca-sifirdan-guc-yinelemesi-ve-olcekleme.md)
 
 ## 🚀 Nasıl Kullanılır?
 

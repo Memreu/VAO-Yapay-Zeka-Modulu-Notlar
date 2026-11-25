@@ -35,6 +35,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
     - [Karar Ağaçlarında Entropi, Gini ve Bilgi Kazancı: Ağaç Hangi Soruyu Önce Sorar?](ek-notlar/2026-11-22-karar-agaclarinda-entropi-ve-bilgi-kazanci.md)
     - [Naive Bayes'te Laplace Düzleştirmesi ve Log-Olasılık Hilesi: Sıfırlar ve Sıfıra Yaklaşan Çarpımlar](ek-notlar/2026-11-23-naive-bayeste-laplace-duzlestirme-ve-log-olasilik.md)
     - [PCA'yı Sıfırdan Yazmak: Kovaryans Matrisi, Güç Yinelemesi ve Ölçekleme Tuzağı](ek-notlar/2026-11-24-pca-sifirdan-guc-yinelemesi-ve-olcekleme.md)
+    - [Ridge ve Lasso'yu Sıfırdan Yazmak: Katsayılar Neden Küçülür, Neden Tam Sıfır Olur?](ek-notlar/2026-11-25-ridge-ve-lasso-sifirdan-yumusak-esikleme.md)
 
 ## 🚀 Nasıl Kullanılır?
 

@@ -34,6 +34,7 @@ Eğitim boyunca öğrendiğim teorik bilgileri ve pratik uygulamaları derli top
     - [Naive Bayes'te Laplace Düzleştirmesi ve Log-Olasılık Hilesi: Sıfırlar ve Sıfıra Yaklaşan Çarpımlar](ek-notlar/2026-11-23-naive-bayeste-laplace-duzlestirme-ve-log-olasilik.md)
     - [PCA'yı Sıfırdan Yazmak: Kovaryans Matrisi, Güç Yinelemesi ve Ölçekleme Tuzağı](ek-notlar/2026-11-24-pca-sifirdan-guc-yinelemesi-ve-olcekleme.md)
     - [Ridge ve Lasso'yu Sıfırdan Yazmak: Katsayılar Neden Küçülür, Neden Tam Sıfır Olur?](ek-notlar/2026-11-25-ridge-ve-lasso-sifirdan-yumusak-esikleme.md)
+    - [Geri Yayılımı (Backpropagation) Sıfırdan Yazmak: XOR, Zincir Kuralı ve Gradyan Kontrolü](ek-notlar/2026-11-27-geri-yayilimi-sifirdan-yazmak-xor-ve-gradyan-kontrolu.md)
 
 ## Nasıl Kullanılır?
 
